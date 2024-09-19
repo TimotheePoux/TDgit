@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Hello les gars ça va ou quoi ?");
+	printf("Hello les gars Ã§a va ou koa ?");
 }
